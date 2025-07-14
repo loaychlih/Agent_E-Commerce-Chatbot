@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "total_queries": 19,
+    "generated_from": "product_reviews.csv",
+    "categories_available": [
+      "Smartphones",
+      "Wearables",
+      "Smart Home",
+      "Audio",
+      "Laptops"
+    ],
+    "products_count": 24
+  },
+  "synthetic_queries": [
+    {
+      "query": "Which smartwatch has the best sleep monitoring feature?",
+      "intent": "feature_based_search",
+      "category": "Wearables",
+      "matched_products": [
+        "SmartWatch Pro",
+        "SleepAnalyzer Band",
+        "ThermoControl Smart"
+      ],
+      "expected_context": [
+        "SmartWatch Pro: 4.6/5",
+        "SleepAnalyzer Band: 3.3/5",
+        "ThermoControl Smart: 4.0/5"
+      ]
+    },
+    {
+      "query": "Can you compare the sound quality of AudiophileMax and StudioQuality Earbuds?",
+      "intent": "comparison_request",
+      "category": "Audio",
+      "matched_products": [
+        "StudioQuality Earbuds",
+        "NoiseCancel Headphones",
+        "AudiophileMax"
+      ],
+      "expected_context": [
+        "StudioQuality Earbuds: 3.5/5",
+        "NoiseCancel Headphones: 2.8/5",
+        "AudiophileMax: 2.2/5"
+      ]
+    },
+    {
+      "query": "Looking for a laptop with a fast charging feature, any suggestions?",
+      "intent": "feature_based_search",
+      "category": "Laptops",
+      "matched_products": [
+        "SmartWatch Pro",
+        "SmartSpeaker 360",
+        "StudioQuality Earbuds"
+      ],
+      "expected_context": [
+        "SmartWatch Pro: 4.6/5",
+        "SmartSpeaker 360: 4.0/5",
+        "StudioQuality Earbuds: 3.5/5"
+      ]
+    },
+    {
+      "query": "What's the most budget-friendly wearable device for health tracking?",
+      "intent": "budget_search",
+      "category": "Wearables",
+      "matched_products": [
+        "HealthBand 2",
+        "ThermoControl Smart"
+      ],
+      "expected_context": [
+        "HealthBand 2: 4.7/5",
+        "ThermoControl Smart: 4.0/5"
+      ]
+    },
+    {
+      "query": "Which smartphone offers the best camera quality for photography?",
+      "intent": "feature_based_search",
+      "category": "Smartphones",
+      "matched_products": [
+        "StudioQuality Earbuds",
+        "ThermoControl Smart"
+      ],
+      "expected_context": [
+        "StudioQuality Earbuds: 3.5/5",
+        "ThermoControl Smart: 4.0/5"
+      ]
+    },
+    {
+      "query": "I'm looking for a smart speaker with voice control, any recommendations?",
+      "intent": "use_case_specific",
+      "category": "Smart Home",
+      "matched_products": [
+        "SmartWatch Pro",
+        "SmartSpeaker 360",
+        "StudioQuality Earbuds"
+      ],
+      "expected_context": [
+        "SmartWatch Pro: 4.6/5",
+        "SmartSpeaker 360: 4.0/5",
+        "StudioQuality Earbuds: 3.5/5"
+      ]
+    },
+    {
+      "query": "Can the FitTrack Ultra track my daily steps accurately?",
+      "intent": "feature_based_search",
+      "category": "Wearables",
+      "matched_products": [
+        "NoiseCancel Headphones",
+        "UltraBook Pro",
+        "FitTrack Ultra"
+      ],
+      "expected_context": [
+        "NoiseCancel Headphones: 2.8/5",
+        "UltraBook Pro: 4.0/5",
+        "FitTrack Ultra: 4.5/5"
+      ]
+    },
+    {
+      "query": "Are the StudioQuality Earbuds compatible with all devices?",
+      "intent": "feature_based_search",
+      "category": "Audio",
+      "matched_products": [
+        "StudioQuality Earbuds",
+        "ThermoControl Smart"
+      ],
+      "expected_context": [
+        "StudioQuality Earbuds: 3.5/5",
+        "ThermoControl Smart: 4.0/5"
+      ]
+    },
+    {
+      "query": "Which laptop has the best display quality for graphic design work?",
+      "intent": "feature_based_search",
+      "category": "Laptops",
+      "matched_products": [
+        "StudioQuality Earbuds",
+        "ThermoControl Smart"
+      ],
+      "expected_context": [
+        "StudioQuality Earbuds: 3.5/5",
+        "ThermoControl Smart: 4.0/5"
+      ]
+    },
+    {
+      "query": "Looking for noise-cancelling headphones, which model is the most effective?",
+      "intent": "feature_based_search",
+      "category": "Audio",
+      "matched_products": [
+        "NoiseCancel Headphones",
+        "ThermoControl Smart"
+      ],
+      "expected_context": [
+        "NoiseCancel Headphones: 2.8/5",
+        "ThermoControl Smart: 4.0/5"
+      ]
+    },
+    {
+      "query": "I need a smartphone with facial recognition technology, any suggestions?",
+      "intent": "feature_based_search",
+      "category": "Smartphones",
+      "matched_products": [
+        "SmartWatch Pro",
+        "SmartSpeaker 360",
+        "StudioQuality Earbuds"
+      ],
+      "expected_context": [
+        "SmartWatch Pro: 4.6/5",
+        "SmartSpeaker 360: 4.0/5",
+        "StudioQuality Earbuds: 3.5/5"
+      ]
+    },
+    {
+      "query": "Can the BassBoost Speaker connect to multiple devices simultaneously?",
+      "intent": "feature_based_search",
+      "category": "Audio",
+      "matched_products": [
+        "SmartSpeaker 360",
+        "HomeConnect Hub",
+        "NoiseCancel Headphones"
+      ],
+      "expected_context": [
+        "SmartSpeaker 360: 4.0/5",
+        "HomeConnect Hub: 4.0/5",
+        "NoiseCancel Headphones: 2.8/5"
+      ]
+    },
+    {
+      "query": "What's the most affordable smart home device with app integration?",
+      "intent": "budget_search",
+      "category": "Smart Home",
+      "matched_products": [
+        "SmartWatch Pro",
+        "SmartSpeaker 360",
+        "HomeConnect Hub"
+      ],
+      "expected_context": [
+        "SmartWatch Pro: 4.6/5",
+        "SmartSpeaker 360: 4.0/5",
+        "HomeConnect Hub: 4.0/5"
+      ]
+    },
+    {
+      "query": "I'm having trouble with my MobiElite 10 trackpad, how can I fix it?",
+      "intent": "problem_solving",
+      "category": "Laptops",
+      "matched_products": [
+        "StudioQuality Earbuds",
+        "PixelView 7",
+        "NoiseCancel Headphones"
+      ],
+      "expected_context": [
+        "StudioQuality Earbuds: 3.5/5",
+        "PixelView 7: 3.0/5",
+        "NoiseCancel Headphones: 2.8/5"
+      ]
+    },
+    {
+      "query": "Which SmartWatch Pro model has the best app interface design?",
+      "intent": "feature_based_search",
+      "category": "Wearables",
+      "matched_products": [
+        "TechPro X20",
+        "SmartWatch Pro",
+        "SecurityCam Pro"
+      ],
+      "expected_context": [
+        "TechPro X20: 4.0/5",
+        "SmartWatch Pro: 4.6/5",
+        "SecurityCam Pro: 3.6/5"
+      ]
+    },
+    {
+      "query": "Looking for a wearable with microphone for voice commands, any recommendations?",
+      "intent": "use_case_specific",
+      "category": "Wearables",
+      "matched_products": [
+        "SmartWatch Pro",
+        "SmartSpeaker 360",
+        "StudioQuality Earbuds"
+      ],
+      "expected_context": [
+        "SmartWatch Pro: 4.6/5",
+        "SmartSpeaker 360: 4.0/5",
+        "StudioQuality Earbuds: 3.5/5"
+      ]
+    },
+    {
+      "query": "Can the MacStyle Air be used for video editing with its display quality?",
+      "intent": "feature_based_search",
+      "category": "Laptops",
+      "matched_products": [
+        "NoiseCancel Headphones",
+        "MacStyle Air",
+        "ThermoControl Smart"
+      ],
+      "expected_context": [
+        "NoiseCancel Headphones: 2.8/5",
+        "MacStyle Air: 3.3/5",
+        "ThermoControl Smart: 4.0/5"
+      ]
+    },
+    {
+      "query": "I'm on a tight budget, which smartphone offers the most features for its price?",
+      "intent": "budget_search",
+      "category": "Smartphones",
+      "matched_products": [
+        "SmartWatch Pro",
+        "SmartSpeaker 360",
+        "HomeConnect Hub"
+      ],
+      "expected_context": [
+        "SmartWatch Pro: 4.6/5",
+        "SmartSpeaker 360: 4.0/5",
+        "HomeConnect Hub: 4.0/5"
+      ]
+    },
+    {
+      "query": "What's the best use case for the GalaxyWave S5 in terms of device compatibility?",
+      "intent": "use_case_specific",
+      "category": "Smartphones",
+      "matched_products": [
+        "GalaxyWave S5",
+        "ThermoControl Smart"
+      ],
+      "expected_context": [
+        "GalaxyWave S5: 3.2/5",
+        "ThermoControl Smart: 4.0/5"
+      ]
+    }
+  ]
+}
