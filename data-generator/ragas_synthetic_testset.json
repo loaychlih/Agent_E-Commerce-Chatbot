@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "generator": "Ragas-based Synthetic Data Generator",
+    "total_queries": 10,
+    "source_data": "product_reviews.csv",
+    "categories": [
+      "Smartphones",
+      "Wearables",
+      "Smart Home",
+      "Audio",
+      "Laptops"
+    ],
+    "products_count": 24,
+    "personas_used": [
+      "Budget-Conscious Shopper",
+      "Tech Enthusiast",
+      "First-Time Buyer",
+      "Quality-Focused Customer",
+      "Comparison Shopper",
+      "Feature-Focused User"
+    ]
+  },
+  "synthetic_testset": [
+    {
+      "query": "Wht is the product summary for AudiophileMax?",
+      "context": "Product: AudiophileMax\n                                Category: Audio\n                                Average Rating: 2.2/5\n                                Total Reviews: 5\n\n                                Key Features: sound quality, noise cancellation, microphone\n                                Key Attributes: ease of use, comfort, portability\n\n                                Customer Reviews:\n                                - The AudiophileMax is amazing! sound quality works perfectly and the ease of use is outstanding. Would definitely recommend!\n- Disappointed with the AudiophileMax. The noise cancellation constantly fails and the comfort is subpar.\n- After two weeks of use, my AudiophileMax started having issues. The microphone stopped working properly.\n- The AudiophileMax was a waste of money. Terrible portability and the microphone is poorly designed.\n- After two weeks of use, my AudiophileMax started having issues. The microphone stopped working properly.\n\n                                Product Summary:\n                                This audio product has received 5 reviews with an average rating of 2.2 stars. \n                                Customers frequently mention features like sound quality, noise cancellation, microphone and appreciate attributes such as ease of use, comfort, portability.\n                                ",
+      "category": "Audio",
+      "related_products": [
+        "AudiophileMax"
+      ],
+      "query_type": "product_queries",
+      "product_properties": {
+        "product_name": "AudiophileMax",
+        "category": "Audio",
+        "average_rating": 2.2,
+        "total_reviews": 5,
+        "features": [
+          "sound quality",
+          "noise cancellation",
+          "microphone"
+        ],
+        "attributes": [
+          "ease of use",
+          "comfort",
+          "portability"
+        ],
+        "sentiment_distribution": {
+          "positive": 1,
+          "neutral": 0,
+          "negative": 4
+        }
+      },
+      "synthesizer": "single_hop_specifc_query_synthesizer"
+    },
+    {
+      "query": "What is the AutoLight System like for first-time buyers, especially about key attributes like connectivity and design?",
+      "context": "Product: AutoLight System\n                                Category: Smart Home\n                                Average Rating: 2.0/5\n                                Total Reviews: 3\n\n                                Key Features: automation capabilities, setup process\n                                Key Attributes: connectivity, design\n\n                                Customer Reviews:\n                                - Would not recommend this Smart Home. The AutoLight System has poor connectivity and the automation capabilities is frustrating.\n- The AutoLight System was a waste of money. Terrible design and the setup process is poorly designed.\n- Best Smart Home I've ever owned. The AutoLight System has exceeded my expectations in terms of design.\n\n                                Product Summary:\n                                This smart home product has received 3 reviews with an average rating of 2.0 stars. \n                                Customers frequently mention features like automation capabilities, setup process and appreciate attributes such as connectivity, design.\n                                ",
+      "category": "Smart Home",
+      "related_products": [
+        "AutoLight System"
+      ],
+      "query_type": "feature_queries",
+      "product_properties": {
+        "product_name": "AutoLight System",
+        "category": "Smart Home",
+        "average_rating": 2.0,
+        "total_reviews": 3,
+        "features": [
+          "automation capabilities",
+          "setup process"
+        ],
+        "attributes": [
+          "connectivity",
+          "design"
+        ],
+        "sentiment_distribution": {
+          "positive": 1,
+          "neutral": 0,
+          "negative": 2
+        }
+      },
+      "synthesizer": "single_hop_specifc_query_synthesizer"
+    },
+    {
+      "query": "How is the sound quality of the BassBoost Speaker?",
+      "context": "Product: BassBoost Speaker\n                                Category: Audio\n                                Average Rating: 3.2/5\n                                Total Reviews: 5\n\n                                Key Features: sound quality, battery life\n                                Key Attributes: comfort, ease of use, build quality, portability\n\n                                Customer Reviews:\n                                - After a year of use, my BassBoost Speaker started having issues. The sound quality stopped working properly.\n- The BassBoost Speaker is amazing! sound quality works perfectly and the ease of use is outstanding. Would definitely recommend!\n- Best Audio I've ever owned. The BassBoost Speaker has exceeded my expectations in terms of comfort.\n- I've been using BassBoost Speaker for three months now and I'm extremely satisfied. The sound quality is exceptional.\n- Very unhappy with my purchase. The BassBoost Speaker's portability is awful and the sound quality keeps malfunctioning.\n\n                                Product Summary:\n                                This audio product has received 5 reviews with an average rating of 3.2 stars. \n                                Customers frequently mention features like sound quality, battery life and appreciate attributes such as comfort, ease of use, build quality.\n                                ",
+      "category": "Audio",
+      "related_products": [
+        "BassBoost Speaker"
+      ],
+      "query_type": "feature_queries",
+      "product_properties": {
+        "product_name": "BassBoost Speaker",
+        "category": "Audio",
+        "average_rating": 3.2,
+        "total_reviews": 5,
+        "features": [
+          "sound quality",
+          "battery life"
+        ],
+        "attributes": [
+          "comfort",
+          "ease of use",
+          "build quality",
+          "portability"
+        ],
+        "sentiment_distribution": {
+          "positive": 3,
+          "neutral": 0,
+          "negative": 2
+        }
+      },
+      "synthesizer": "single_hop_specifc_query_synthesizer"
+    },
+    {
+      "query": "What are the key attributes of the DevBook 13 that a first-time buyer should consider?",
+      "context": "Product: DevBook 13\n                                Category: Laptops\n                                Average Rating: 4.4/5\n                                Total Reviews: 5\n\n                                Key Features: keyboard, trackpad, battery life\n                                Key Attributes: screen quality, performance, portability, build quality\n\n                                Customer Reviews:\n                                - Absolutely love my new DevBook 13! The screen quality is top-notch and the keyboard makes it worth every penny.\n- The DevBook 13 is amazing! trackpad works perfectly and the performance is outstanding. Would definitely recommend!\n- The DevBook 13 is amazing! battery life works perfectly and the portability is outstanding. Would definitely recommend!\n- The DevBook 13 serves its purpose. The screen quality is okay and the battery life works fine most of the time.\n- Absolutely love my new DevBook 13! The build quality is top-notch and the keyboard makes it worth every penny.\n\n                                Product Summary:\n                                This laptops product has received 5 reviews with an average rating of 4.4 stars. \n                                Customers frequently mention features like keyboard, trackpad, battery life and appreciate attributes such as screen quality, performance, portability.\n                                ",
+      "category": "Laptops",
+      "related_products": [
+        "DevBook 13"
+      ],
+      "query_type": "feature_queries",
+      "product_properties": {
+        "product_name": "DevBook 13",
+        "category": "Laptops",
+        "average_rating": 4.4,
+        "total_reviews": 5,
+        "features": [
+          "keyboard",
+          "trackpad",
+          "battery life"
+        ],
+        "attributes": [
+          "screen quality",
+          "performance",
+          "portability",
+          "build quality"
+        ],
+        "sentiment_distribution": {
+          "positive": 4,
+          "neutral": 1,
+          "negative": 0
+        }
+      },
+      "synthesizer": "single_hop_specifc_query_synthesizer"
+    },
+    {
+      "query": "What are the key features of the FitTrack Ultra?",
+      "context": "Product: FitTrack Ultra\n                                Category: Wearables\n                                Average Rating: 4.5/5\n                                Total Reviews: 4\n\n                                Key Features: app integration, display, health tracking\n                                Key Attributes: accuracy, durability, design\n\n                                Customer Reviews:\n                                - Very impressed with the FitTrack Ultra. Great accuracy and the app integration is exactly what I needed.\n- Best Wearables I've ever owned. The FitTrack Ultra has exceeded my expectations in terms of accuracy.\n- Very impressed with the FitTrack Ultra. Great durability and the health tracking is exactly what I needed.\n- Best Wearables I've ever owned. The FitTrack Ultra has exceeded my expectations in terms of design.\n\n                                Product Summary:\n                                This wearables product has received 4 reviews with an average rating of 4.5 stars. \n                                Customers frequently mention features like app integration, display, health tracking and appreciate attributes such as accuracy, durability, design.\n                                ",
+      "category": "Wearables",
+      "related_products": [
+        "FitTrack Ultra"
+      ],
+      "query_type": "feature_queries",
+      "product_properties": {
+        "product_name": "FitTrack Ultra",
+        "category": "Wearables",
+        "average_rating": 4.5,
+        "total_reviews": 4,
+        "features": [
+          "app integration",
+          "display",
+          "health tracking"
+        ],
+        "attributes": [
+          "accuracy",
+          "durability",
+          "design"
+        ],
+        "sentiment_distribution": {
+          "positive": 4,
+          "neutral": 0,
+          "negative": 0
+        }
+      },
+      "synthesizer": "single_hop_specifc_query_synthesizer"
+    },
+    {
+      "query": "How good is the sound quality of the AudiophileMax according to user reviews?",
+      "context": "Product: AudiophileMax\n                                Category: Audio\n                                Average Rating: 2.2/5\n                                Total Reviews: 5\n\n                                Key Features: sound quality, noise cancellation, microphone\n                                Key Attributes: ease of use, comfort, portability\n\n                                Customer Reviews:\n                                - The AudiophileMax is amazing! sound quality works perfectly and the ease of use is outstanding. Would definitely recommend!\n- Disappointed with the AudiophileMax. The noise cancellation constantly fails and the comfort is subpar.\n- After two weeks of use, my AudiophileMax started having issues. The microphone stopped working properly.\n- The AudiophileMax was a waste of money. Terrible portability and the microphone is poorly designed.\n- After two weeks of use, my AudiophileMax started having issues. The microphone stopped working properly.\n\n                                Product Summary:\n                                This audio product has received 5 reviews with an average rating of 2.2 stars. \n                                Customers frequently mention features like sound quality, noise cancellation, microphone and appreciate attributes such as ease of use, comfort, portability.\n                                ",
+      "category": "Audio",
+      "related_products": [
+        "AudiophileMax"
+      ],
+      "query_type": "product_queries",
+      "product_properties": {
+        "product_name": "AudiophileMax",
+        "category": "Audio",
+        "average_rating": 2.2,
+        "total_reviews": 5,
+        "features": [
+          "sound quality",
+          "noise cancellation",
+          "microphone"
+        ],
+        "attributes": [
+          "ease of use",
+          "comfort",
+          "portability"
+        ],
+        "sentiment_distribution": {
+          "positive": 1,
+          "neutral": 0,
+          "negative": 4
+        }
+      },
+      "synthesizer": "single_hop_specifc_query_synthesizer"
+    },
+    {
+      "query": "What do customers think about the automation capabilities of the AutoLight System?",
+      "context": "Product: AutoLight System\n                                Category: Smart Home\n                                Average Rating: 2.0/5\n                                Total Reviews: 3\n\n                                Key Features: automation capabilities, setup process\n                                Key Attributes: connectivity, design\n\n                                Customer Reviews:\n                                - Would not recommend this Smart Home. The AutoLight System has poor connectivity and the automation capabilities is frustrating.\n- The AutoLight System was a waste of money. Terrible design and the setup process is poorly designed.\n- Best Smart Home I've ever owned. The AutoLight System has exceeded my expectations in terms of design.\n\n                                Product Summary:\n                                This smart home product has received 3 reviews with an average rating of 2.0 stars. \n                                Customers frequently mention features like automation capabilities, setup process and appreciate attributes such as connectivity, design.\n                                ",
+      "category": "Smart Home",
+      "related_products": [
+        "AutoLight System"
+      ],
+      "query_type": "product_queries",
+      "product_properties": {
+        "product_name": "AutoLight System",
+        "category": "Smart Home",
+        "average_rating": 2.0,
+        "total_reviews": 3,
+        "features": [
+          "automation capabilities",
+          "setup process"
+        ],
+        "attributes": [
+          "connectivity",
+          "design"
+        ],
+        "sentiment_distribution": {
+          "positive": 1,
+          "neutral": 0,
+          "negative": 2
+        }
+      },
+      "synthesizer": "single_hop_specifc_query_synthesizer"
+    },
+    {
+      "query": "Is the BassBoost Speeker easy to use for a first-time buyer?",
+      "context": "Product: BassBoost Speaker\n                                Category: Audio\n                                Average Rating: 3.2/5\n                                Total Reviews: 5\n\n                                Key Features: sound quality, battery life\n                                Key Attributes: comfort, ease of use, build quality, portability\n\n                                Customer Reviews:\n                                - After a year of use, my BassBoost Speaker started having issues. The sound quality stopped working properly.\n- The BassBoost Speaker is amazing! sound quality works perfectly and the ease of use is outstanding. Would definitely recommend!\n- Best Audio I've ever owned. The BassBoost Speaker has exceeded my expectations in terms of comfort.\n- I've been using BassBoost Speaker for three months now and I'm extremely satisfied. The sound quality is exceptional.\n- Very unhappy with my purchase. The BassBoost Speaker's portability is awful and the sound quality keeps malfunctioning.\n\n                                Product Summary:\n                                This audio product has received 5 reviews with an average rating of 3.2 stars. \n                                Customers frequently mention features like sound quality, battery life and appreciate attributes such as comfort, ease of use, build quality.\n                                ",
+      "category": "Audio",
+      "related_products": [
+        "BassBoost Speaker"
+      ],
+      "query_type": "product_queries",
+      "product_properties": {
+        "product_name": "BassBoost Speaker",
+        "category": "Audio",
+        "average_rating": 3.2,
+        "total_reviews": 5,
+        "features": [
+          "sound quality",
+          "battery life"
+        ],
+        "attributes": [
+          "comfort",
+          "ease of use",
+          "build quality",
+          "portability"
+        ],
+        "sentiment_distribution": {
+          "positive": 3,
+          "neutral": 0,
+          "negative": 2
+        }
+      },
+      "synthesizer": "single_hop_specifc_query_synthesizer"
+    },
+    {
+      "query": "How is the screan quality of the DevBook 13 according to customer reviews?",
+      "context": "Product: DevBook 13\n                                Category: Laptops\n                                Average Rating: 4.4/5\n                                Total Reviews: 5\n\n                                Key Features: keyboard, trackpad, battery life\n                                Key Attributes: screen quality, performance, portability, build quality\n\n                                Customer Reviews:\n                                - Absolutely love my new DevBook 13! The screen quality is top-notch and the keyboard makes it worth every penny.\n- The DevBook 13 is amazing! trackpad works perfectly and the performance is outstanding. Would definitely recommend!\n- The DevBook 13 is amazing! battery life works perfectly and the portability is outstanding. Would definitely recommend!\n- The DevBook 13 serves its purpose. The screen quality is okay and the battery life works fine most of the time.\n- Absolutely love my new DevBook 13! The build quality is top-notch and the keyboard makes it worth every penny.\n\n                                Product Summary:\n                                This laptops product has received 5 reviews with an average rating of 4.4 stars. \n                                Customers frequently mention features like keyboard, trackpad, battery life and appreciate attributes such as screen quality, performance, portability.\n                                ",
+      "category": "Laptops",
+      "related_products": [
+        "DevBook 13"
+      ],
+      "query_type": "product_queries",
+      "product_properties": {
+        "product_name": "DevBook 13",
+        "category": "Laptops",
+        "average_rating": 4.4,
+        "total_reviews": 5,
+        "features": [
+          "keyboard",
+          "trackpad",
+          "battery life"
+        ],
+        "attributes": [
+          "screen quality",
+          "performance",
+          "portability",
+          "build quality"
+        ],
+        "sentiment_distribution": {
+          "positive": 4,
+          "neutral": 1,
+          "negative": 0
+        }
+      },
+      "synthesizer": "single_hop_specifc_query_synthesizer"
+    },
+    {
+      "query": "How good is the battery life and sound quality of the FitTrack Ultra, and does the microphone work well?",
+      "context": "Product: FitTrack Ultra\n                                Category: Wearables\n                                Average Rating: 4.5/5\n                                Total Reviews: 4\n\n                                Key Features: app integration, display, health tracking\n                                Key Attributes: accuracy, durability, design\n\n                                Customer Reviews:\n                                - Very impressed with the FitTrack Ultra. Great accuracy and the app integration is exactly what I needed.\n- Best Wearables I've ever owned. The FitTrack Ultra has exceeded my expectations in terms of accuracy.\n- Very impressed with the FitTrack Ultra. Great durability and the health tracking is exactly what I needed.\n- Best Wearables I've ever owned. The FitTrack Ultra has exceeded my expectations in terms of design.\n\n                                Product Summary:\n                                This wearables product has received 4 reviews with an average rating of 4.5 stars. \n                                Customers frequently mention features like app integration, display, health tracking and appreciate attributes such as accuracy, durability, design.\n                                ",
+      "category": "Wearables",
+      "related_products": [
+        "FitTrack Ultra"
+      ],
+      "query_type": "feature_queries",
+      "product_properties": {
+        "product_name": "FitTrack Ultra",
+        "category": "Wearables",
+        "average_rating": 4.5,
+        "total_reviews": 4,
+        "features": [
+          "app integration",
+          "display",
+          "health tracking"
+        ],
+        "attributes": [
+          "accuracy",
+          "durability",
+          "design"
+        ],
+        "sentiment_distribution": {
+          "positive": 4,
+          "neutral": 0,
+          "negative": 0
+        }
+      },
+      "synthesizer": "single_hop_specifc_query_synthesizer"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+review_id,product,category,rating,review_text,feature_mentioned,attribute_mentioned,date,sentiment
+REV14165,TechPro X20,Smartphones,4,The TechPro X20 is amazing! facial recognition works perfectly and the design is outstanding. Would definitely recommend!,facial recognition,design,2023-03-09,positive
+REV81426,TechPro X20,Smartphones,4,The TechPro X20 is amazing! battery life works perfectly and the design is outstanding. Would definitely recommend!,battery life,design,2023-10-28,positive
+REV54597,SmartWatch Pro,Wearables,4,The SmartWatch Pro is amazing! app integration works perfectly and the durability is outstanding. Would definitely recommend!,app integration,durability,2023-03-09,positive
+REV89131,SmartSpeaker 360,Smart Home,4,Very impressed with the SmartSpeaker 360. Great connectivity and the app interface is exactly what I needed.,app interface,connectivity,2022-12-19,positive
+REV92397,HomeConnect Hub,Smart Home,4,Very impressed with the HomeConnect Hub. Great design and the device compatibility is exactly what I needed.,device compatibility,design,2022-10-28,positive
+REV40512,StudioQuality Earbuds,Audio,3,The StudioQuality Earbuds is decent. microphone works as expected but the build quality could be better.,microphone,build quality,2022-03-23,neutral
+REV37460,PixelView 7,Smartphones,3,An average Smartphones option. The PixelView 7's portability is neither impressive nor disappointing.,facial recognition,portability,2022-12-30,neutral
+REV45382,HomeConnect Hub,Smart Home,4,I've been using HomeConnect Hub for three months now and I'm extremely satisfied. The setup process is exceptional.,setup process,ease of use,2023-01-24,positive
+REV18675,NoiseCancel Headphones,Audio,5,The NoiseCancel Headphones is amazing! battery life works perfectly and the comfort is outstanding. Would definitely recommend!,battery life,comfort,2022-10-02,positive
+REV28301,GamerEdition X,Laptops,4,The GamerEdition X serves its purpose. The build quality is okay and the display works fine most of the time.,display,build quality,2022-09-29,neutral
+REV28131,GamerEdition X,Laptops,4,The GamerEdition X serves its purpose. The cooling system is okay and the ports selection works fine most of the time.,ports selection,cooling system,2022-08-13,neutral
+REV88172,BassBoost Speaker,Audio,1,"After a year of use, my BassBoost Speaker started having issues. The sound quality stopped working properly.",sound quality,comfort,2023-03-09,negative
+REV99166,PixelView 7,Smartphones,2,Very unhappy with my purchase. The PixelView 7's build quality is awful and the fast charging keeps malfunctioning.,fast charging,build quality,2022-01-12,negative
+REV44522,MobiElite 10,Smartphones,4,Very impressed with the MobiElite 10. Great user interface and the facial recognition is exactly what I needed.,facial recognition,user interface,2022-01-04,positive
+REV31174,NoiseCancel Headphones,Audio,1,Would not recommend this Audio. The NoiseCancel Headphones has poor comfort and the microphone is frustrating.,microphone,comfort,2023-01-18,negative
+REV41385,AudiophileMax,Audio,4,The AudiophileMax is amazing! sound quality works perfectly and the ease of use is outstanding. Would definitely recommend!,sound quality,ease of use,2022-11-11,positive
+REV26828,GalaxyWave S5,Smartphones,4,Very impressed with the GalaxyWave S5. Great performance and the display quality is exactly what I needed.,display quality,performance,2022-05-09,positive
+REV36365,RunMaster GPS,Wearables,5,Absolutely love my new RunMaster GPS! The design is top-notch and the battery life makes it worth every penny.,battery life,design,2023-07-07,positive
+REV18392,SecurityCam Pro,Smart Home,1,The SecurityCam Pro was a waste of money. Terrible responsiveness and the automation capabilities is poorly designed.,automation capabilities,responsiveness,2022-08-19,negative
+REV92719,HomeConnect Hub,Smart Home,4,I've been using HomeConnect Hub for a week now and I'm extremely satisfied. The setup process is exceptional.,setup process,design,2023-12-26,positive
+REV73624,GalaxyWave S5,Smartphones,1,Disappointed with the GalaxyWave S5. The camera constantly fails and the performance is subpar.,camera,performance,2023-11-17,negative
+REV22363,GamerEdition X,Laptops,5,I've been using GamerEdition X for three months now and I'm extremely satisfied. The trackpad is exceptional.,trackpad,screen quality,2022-07-14,positive
+REV54473,PixelView 7,Smartphones,4,The PixelView 7 is amazing! facial recognition works perfectly and the portability is outstanding. Would definitely recommend!,facial recognition,portability,2023-02-17,positive
+REV70637,GalaxyWave S5,Smartphones,5,I've been using GalaxyWave S5 for two weeks now and I'm extremely satisfied. The battery life is exceptional.,battery life,design,2022-10-13,positive
+REV31798,UltraBook Pro,Laptops,4,Absolutely love my new UltraBook Pro! The screen quality is top-notch and the battery life makes it worth every penny.,battery life,screen quality,2022-08-31,positive
+REV61173,SleepAnalyzer Band,Wearables,1,Disappointed with the SleepAnalyzer Band. The app integration constantly fails and the accuracy is subpar.,app integration,accuracy,2022-01-03,negative
+REV48890,SecurityCam Pro,Smart Home,4,"Not bad, not great. The SecurityCam Pro has good responsiveness but the automation capabilities is just mediocre.",automation capabilities,responsiveness,2022-07-14,neutral
+REV72493,UltraBook Pro,Laptops,4,Best Laptops I've ever owned. The UltraBook Pro has exceeded my expectations in terms of screen quality.,ports selection,screen quality,2023-08-22,positive
+REV18907,AudiophileMax,Audio,1,Disappointed with the AudiophileMax. The noise cancellation constantly fails and the comfort is subpar.,noise cancellation,comfort,2023-09-02,negative
+REV64948,DevBook 13,Laptops,4,Absolutely love my new DevBook 13! The screen quality is top-notch and the keyboard makes it worth every penny.,keyboard,screen quality,2022-03-25,positive
+REV61876,AudiophileMax,Audio,2,"After two weeks of use, my AudiophileMax started having issues. The microphone stopped working properly.",microphone,portability,2022-09-29,negative
+REV83792,MacStyle Air,Laptops,1,Disappointed with the MacStyle Air. The battery life constantly fails and the cooling system is subpar.,battery life,cooling system,2023-09-29,negative
+REV58434,TechPro X20,Smartphones,5,I've been using TechPro X20 for a week now and I'm extremely satisfied. The display quality is exceptional.,display quality,design,2022-09-08,positive
+REV49240,SmartSpeaker 360,Smart Home,3,"Not bad, not great. The SmartSpeaker 360 has good design but the device compatibility is just mediocre.",device compatibility,design,2023-07-22,neutral
+REV89276,GalaxyWave S5,Smartphones,1,Very unhappy with my purchase. The GalaxyWave S5's performance is awful and the facial recognition keeps malfunctioning.,facial recognition,performance,2022-10-16,negative
+REV65518,MacStyle Air,Laptops,4,Best Laptops I've ever owned. The MacStyle Air has exceeded my expectations in terms of cooling system.,trackpad,cooling system,2023-10-12,positive
+REV82309,HomeConnect Hub,Smart Home,3,An average Smart Home option. The HomeConnect Hub's connectivity is neither impressive nor disappointing.,voice control,connectivity,2023-03-29,neutral
+REV82420,RunMaster GPS,Wearables,4,I've been using RunMaster GPS for a month now and I'm extremely satisfied. The health tracking is exceptional.,health tracking,comfort,2023-08-20,positive
+REV42706,DevBook 13,Laptops,5,The DevBook 13 is amazing! trackpad works perfectly and the performance is outstanding. Would definitely recommend!,trackpad,performance,2023-11-30,positive
+REV64040,iConnect Pro,Smartphones,1,"After two weeks of use, my iConnect Pro started having issues. The display quality stopped working properly.",display quality,portability,2022-07-01,negative
+REV24168,GalaxyWave S5,Smartphones,4,"After using the GalaxyWave S5 for two weeks, I would say it's adequate. Nothing exceptional about the facial recognition.",facial recognition,portability,2023-12-20,neutral
+REV39219,FitTrack Ultra,Wearables,5,Very impressed with the FitTrack Ultra. Great accuracy and the app integration is exactly what I needed.,app integration,accuracy,2022-08-22,positive
+REV76768,GalaxyWave S5,Smartphones,5,The GalaxyWave S5 is amazing! fast charging works perfectly and the user interface is outstanding. Would definitely recommend!,fast charging,user interface,2023-10-19,positive
+REV15014,RunMaster GPS,Wearables,4,Best Wearables I've ever owned. The RunMaster GPS has exceeded my expectations in terms of comfort.,display,comfort,2022-09-29,positive
+REV25157,MobiElite 10,Smartphones,4,An average Smartphones option. The MobiElite 10's user interface is neither impressive nor disappointing.,fast charging,user interface,2023-06-08,neutral
+REV97900,RunMaster GPS,Wearables,4,Very impressed with the RunMaster GPS. Great design and the battery life is exactly what I needed.,battery life,design,2023-07-06,positive
+REV49363,MacStyle Air,Laptops,2,Would not recommend this Laptops. The MacStyle Air has poor performance and the battery life is frustrating.,battery life,performance,2022-05-08,negative
+REV97153,StudioQuality Earbuds,Audio,4,Best Audio I've ever owned. The StudioQuality Earbuds has exceeded my expectations in terms of portability.,connectivity,portability,2023-03-07,positive
+REV37549,SmartWatch Pro,Wearables,4,Absolutely love my new SmartWatch Pro! The durability is top-notch and the sleep monitoring makes it worth every penny.,sleep monitoring,durability,2022-10-21,positive
+REV32241,RunMaster GPS,Wearables,4,Very impressed with the RunMaster GPS. Great design and the sleep monitoring is exactly what I needed.,sleep monitoring,design,2023-04-30,positive
+REV29313,iConnect Pro,Smartphones,5,I've been using iConnect Pro for two weeks now and I'm extremely satisfied. The display quality is exceptional.,display quality,build quality,2022-07-23,positive
+REV85454,TechPro X20,Smartphones,4,The TechPro X20 is decent. battery life works as expected but the portability could be better.,battery life,portability,2023-10-07,neutral
+REV33053,DevBook 13,Laptops,4,The DevBook 13 is amazing! battery life works perfectly and the portability is outstanding. Would definitely recommend!,battery life,portability,2022-08-13,positive
+REV97500,BassBoost Speaker,Audio,5,The BassBoost Speaker is amazing! sound quality works perfectly and the ease of use is outstanding. Would definitely recommend!,sound quality,ease of use,2023-04-21,positive
+REV30861,AudiophileMax,Audio,2,The AudiophileMax was a waste of money. Terrible portability and the microphone is poorly designed.,microphone,portability,2023-04-02,negative
+REV45992,SleepAnalyzer Band,Wearables,4,An average Wearables option. The SleepAnalyzer Band's accuracy is neither impressive nor disappointing.,display,accuracy,2022-09-02,neutral
+REV40311,FitTrack Ultra,Wearables,4,Best Wearables I've ever owned. The FitTrack Ultra has exceeded my expectations in terms of accuracy.,display,accuracy,2022-06-04,positive
+REV37110,SmartWatch Pro,Wearables,5,Best Wearables I've ever owned. The SmartWatch Pro has exceeded my expectations in terms of comfort.,battery life,comfort,2022-03-05,positive
+REV56105,SleepAnalyzer Band,Wearables,2,Very unhappy with my purchase. The SleepAnalyzer Band's comfort is awful and the sleep monitoring keeps malfunctioning.,sleep monitoring,comfort,2022-01-07,negative
+REV45774,SecurityCam Pro,Smart Home,3,"Not bad, not great. The SecurityCam Pro has good design but the device compatibility is just mediocre.",device compatibility,design,2022-08-13,neutral
+REV91560,SleepAnalyzer Band,Wearables,4,Very impressed with the SleepAnalyzer Band. Great water resistance and the health tracking is exactly what I needed.,health tracking,water resistance,2022-05-11,positive
+REV27786,SoundPods Pro,Audio,4,The SoundPods Pro is amazing! connectivity works perfectly and the ease of use is outstanding. Would definitely recommend!,connectivity,ease of use,2023-03-15,positive
+REV59692,SmartWatch Pro,Wearables,5,I've been using SmartWatch Pro for a month now and I'm extremely satisfied. The health tracking is exceptional.,health tracking,design,2022-12-12,positive
+REV95215,SecurityCam Pro,Smart Home,4,Absolutely love my new SecurityCam Pro! The reliability is top-notch and the automation capabilities makes it worth every penny.,automation capabilities,reliability,2022-08-18,positive
+REV72070,TechPro X20,Smartphones,4,The TechPro X20 is amazing! camera works perfectly and the design is outstanding. Would definitely recommend!,camera,design,2022-05-10,positive
+REV25012,MobiElite 10,Smartphones,3,An average Smartphones option. The MobiElite 10's portability is neither impressive nor disappointing.,battery life,portability,2023-09-14,neutral
+REV19961,MacStyle Air,Laptops,5,Best Laptops I've ever owned. The MacStyle Air has exceeded my expectations in terms of screen quality.,keyboard,screen quality,2022-07-23,positive
+REV55508,NoiseCancel Headphones,Audio,1,Very unhappy with my purchase. The NoiseCancel Headphones's portability is awful and the sound quality keeps malfunctioning.,sound quality,portability,2022-02-12,negative
+REV23833,BassBoost Speaker,Audio,4,Best Audio I've ever owned. The BassBoost Speaker has exceeded my expectations in terms of comfort.,battery life,comfort,2023-05-17,positive
+REV73372,HealthBand 2,Wearables,5,Absolutely love my new HealthBand 2! The accuracy is top-notch and the app integration makes it worth every penny.,app integration,accuracy,2023-07-06,positive
+REV41963,SleepAnalyzer Band,Wearables,4,I've been using SleepAnalyzer Band for a month now and I'm extremely satisfied. The sleep monitoring is exceptional.,sleep monitoring,design,2023-04-07,positive
+REV37802,RunMaster GPS,Wearables,5,Very impressed with the RunMaster GPS. Great water resistance and the sleep monitoring is exactly what I needed.,sleep monitoring,water resistance,2023-05-15,positive
+REV21221,AutoLight System,Smart Home,1,Would not recommend this Smart Home. The AutoLight System has poor connectivity and the automation capabilities is frustrating.,automation capabilities,connectivity,2022-07-15,negative
+REV22196,DevBook 13,Laptops,4,The DevBook 13 serves its purpose. The screen quality is okay and the battery life works fine most of the time.,battery life,screen quality,2022-01-18,neutral
+REV79588,SmartSpeaker 360,Smart Home,5,Absolutely love my new SmartSpeaker 360! The ease of use is top-notch and the device compatibility makes it worth every penny.,device compatibility,ease of use,2023-07-21,positive
+REV40217,SecurityCam Pro,Smart Home,5,Very impressed with the SecurityCam Pro. Great connectivity and the setup process is exactly what I needed.,setup process,connectivity,2022-09-15,positive
+REV46241,GalaxyWave S5,Smartphones,3,"After using the GalaxyWave S5 for two weeks, I would say it's adequate. Nothing exceptional about the facial recognition.",facial recognition,performance,2023-05-11,neutral
+REV33519,AudiophileMax,Audio,2,"After two weeks of use, my AudiophileMax started having issues. The microphone stopped working properly.",microphone,portability,2023-01-05,negative
+REV93606,HomeConnect Hub,Smart Home,5,The HomeConnect Hub is amazing! setup process works perfectly and the ease of use is outstanding. Would definitely recommend!,setup process,ease of use,2022-05-10,positive
+REV16734,FitTrack Ultra,Wearables,5,Very impressed with the FitTrack Ultra. Great durability and the health tracking is exactly what I needed.,health tracking,durability,2022-07-08,positive
+REV83772,SecurityCam Pro,Smart Home,4,The SecurityCam Pro is amazing! voice control works perfectly and the reliability is outstanding. Would definitely recommend!,voice control,reliability,2022-06-02,positive
+REV69049,HomeConnect Hub,Smart Home,4,Very impressed with the HomeConnect Hub. Great reliability and the app interface is exactly what I needed.,app interface,reliability,2023-01-25,positive
+REV37235,HealthBand 2,Wearables,4,Absolutely love my new HealthBand 2! The water resistance is top-notch and the sleep monitoring makes it worth every penny.,sleep monitoring,water resistance,2022-04-12,positive
+REV63545,MacStyle Air,Laptops,4,Absolutely love my new MacStyle Air! The build quality is top-notch and the keyboard makes it worth every penny.,keyboard,build quality,2022-01-03,positive
+REV19329,RunMaster GPS,Wearables,5,Best Wearables I've ever owned. The RunMaster GPS has exceeded my expectations in terms of design.,app integration,design,2023-04-10,positive
+REV44816,MacStyle Air,Laptops,4,Absolutely love my new MacStyle Air! The build quality is top-notch and the ports selection makes it worth every penny.,ports selection,build quality,2022-06-02,positive
+REV71433,UltraBook Pro,Laptops,4,"Not bad, not great. The UltraBook Pro has good build quality but the keyboard is just mediocre.",keyboard,build quality,2022-05-08,neutral
+REV66626,SecurityCam Pro,Smart Home,4,Very impressed with the SecurityCam Pro. Great design and the automation capabilities is exactly what I needed.,automation capabilities,design,2022-02-10,positive
+REV85529,ThermoControl Smart,Smart Home,4,Absolutely love my new ThermoControl Smart! The reliability is top-notch and the automation capabilities makes it worth every penny.,automation capabilities,reliability,2022-10-03,positive
+REV93202,GalaxyWave S5,Smartphones,3,An average Smartphones option. The GalaxyWave S5's build quality is neither impressive nor disappointing.,fast charging,build quality,2023-03-23,neutral
+REV63955,FitTrack Ultra,Wearables,4,Best Wearables I've ever owned. The FitTrack Ultra has exceeded my expectations in terms of design.,app integration,design,2022-12-04,positive
+REV25194,HealthBand 2,Wearables,5,The HealthBand 2 is amazing! app integration works perfectly and the durability is outstanding. Would definitely recommend!,app integration,durability,2022-11-28,positive
+REV91609,RunMaster GPS,Wearables,4,The RunMaster GPS is amazing! health tracking works perfectly and the durability is outstanding. Would definitely recommend!,health tracking,durability,2023-01-06,positive
+REV73532,SleepAnalyzer Band,Wearables,5,I've been using SleepAnalyzer Band for three months now and I'm extremely satisfied. The health tracking is exceptional.,health tracking,accuracy,2023-12-17,positive
+REV22217,TechPro X20,Smartphones,3,An average Smartphones option. The TechPro X20's design is neither impressive nor disappointing.,display quality,design,2023-02-22,neutral
+REV76698,UltraBook Pro,Laptops,4,"After using the UltraBook Pro for a year, I would say it's adequate. Nothing exceptional about the battery life.",battery life,performance,2022-10-26,neutral
+REV88561,SecurityCam Pro,Smart Home,4,Absolutely love my new SecurityCam Pro! The responsiveness is top-notch and the device compatibility makes it worth every penny.,device compatibility,responsiveness,2022-07-15,positive
+REV10336,NoiseCancel Headphones,Audio,4,The NoiseCancel Headphones serves its purpose. The portability is okay and the sound quality works fine most of the time.,sound quality,portability,2022-10-01,neutral
+REV73483,AutoLight System,Smart Home,1,The AutoLight System was a waste of money. Terrible design and the setup process is poorly designed.,setup process,design,2023-07-06,negative
+REV84946,AutoLight System,Smart Home,4,Best Smart Home I've ever owned. The AutoLight System has exceeded my expectations in terms of design.,setup process,design,2022-09-02,positive
+REV95461,SmartWatch Pro,Wearables,5,Very impressed with the SmartWatch Pro. Great comfort and the app integration is exactly what I needed.,app integration,comfort,2023-11-11,positive
+REV23069,DevBook 13,Laptops,5,Absolutely love my new DevBook 13! The build quality is top-notch and the keyboard makes it worth every penny.,keyboard,build quality,2023-03-27,positive
+REV54375,BassBoost Speaker,Audio,4,I've been using BassBoost Speaker for three months now and I'm extremely satisfied. The sound quality is exceptional.,sound quality,build quality,2022-09-29,positive
+REV73956,BassBoost Speaker,Audio,2,Very unhappy with my purchase. The BassBoost Speaker's portability is awful and the sound quality keeps malfunctioning.,sound quality,portability,2023-10-04,negative

@@ -1,9 +1,12 @@
 langchain-astradb
 langchain 
 langchain-openai
+langchain-community
 datasets
 pypdf
 python-dotenv
 flask
+ragas
+sentence-transformers
 
 -e .
